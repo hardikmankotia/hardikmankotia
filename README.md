@@ -73,14 +73,8 @@
 
 # 📌 Featured Projects  
 
-### 🌐 Portfolio Website  
-A clean, modern personal website to showcase my work.
-
- ### 🔑 Password Generator  
-Strong, random passwords using JavaScript.
-
-### 🧮 Java Mini Tools  
-Logic-building programs for practice.
+It's Start...
+Wait..
 
 > More projects coming every week… 🚀
 
