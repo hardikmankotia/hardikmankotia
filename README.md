@@ -11,7 +11,7 @@
 - 🌱 Currently learning: **HTML, CSS, Java, Python**  
 - ⚡ Tech Goal: Become a **Full Stack Developer**  
 - 🧠 I believe in **learning by building real projects**  
-- 🎯 **2025 Goals**
+- 🎯 **2026 Goals**
   - Build **25+ high-quality projects**
   - Internship / Freelancing  
   - Learn Backend (Node.js or Java Spring)  
