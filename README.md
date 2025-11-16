@@ -76,13 +76,7 @@
 ### 🌐 Portfolio Website  
 A clean, modern personal website to showcase my work.
 
-### ☁️ Weather App  
-Live weather data using API.
-
-### 📝 To-Do Application  
-A simple and clean task manager.
-
-### 🔑 Password Generator  
+ ### 🔑 Password Generator  
 Strong, random passwords using JavaScript.
 
 ### 🧮 Java Mini Tools  
