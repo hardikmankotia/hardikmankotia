@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hardik+Mankotia+👋;Developer+%7C+Learner+%7C+Creator;Building+My+Future+One+Commit+At+A+Time+🔥" alt="Typing SVG" />
 </p>
 
+
 ---
 
 # 👨‍💻 Hardik Mankotia  
