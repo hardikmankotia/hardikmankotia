@@ -1,7 +1,8 @@
 <!-- -------------------------  PREMIUM BANNER  -------------------------- -->
  <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/repo/main/premium-banner.gif" alt="Hardik Banner" />
+  <img src="LINK_TO_GIF_HERE" alt="Hardik Banner" />
 </p>
+
 
 
 
