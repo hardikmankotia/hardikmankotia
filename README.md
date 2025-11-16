@@ -1,6 +1,6 @@
 <!-- -------------------------  PREMIUM BANNER  -------------------------- -->
- <p align="center">
-  <img src="LINK_TO_GIF_HERE" alt="Hardik Banner" />
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/hardikmankotia/repo/main/premium-banner.gif" alt="Hardik Banner" />
 </p>
 
 
