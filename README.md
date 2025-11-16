@@ -1,11 +1,8 @@
 <!-- -------------------------  PREMIUM BANNER  -------------------------- -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hardik+Mankotia+👋;Developer+%7C+Learner+%7C+Creator;Building+My+Future+One+Commit+At+A+Time+🔥"
-    alt="Typing Banner"
-    onerror="this.src='https://via.placeholder.com/600x100?text=Hi+I%27m+Hardik+Mankotia+👋'"
-  />
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/repo/main/premium-banner.gif" alt="Hardik Banner" />
 </p>
+
 
 
 
